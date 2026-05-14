@@ -1,0 +1,6 @@
+# In # In your cloned repo folder:
+unzip Family-Cooking-App.zip
+cp -r cooking-app/. .
+git add .
+git commit -m "Add Vite scaffold + GitHub Actions deploy"
+git push
